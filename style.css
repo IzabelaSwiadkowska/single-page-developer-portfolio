@@ -732,3 +732,7 @@ textarea:focus:valid {
     left: -205px;
   }
 }
+.attribution {
+  text-align: center;
+  margin-top: 100px;
+}
